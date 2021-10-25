@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML</title>
+  </head>
+  <body>
+   <header>
+     <h1> Tech Blog </h1>
+     <nav>
+       <ul>
+       <li><a href="html.html"> HTML </a></li>
+       <li><a href="index.html"> HOME </a></li>  
+          <li><a href="html.css"> CSS </a></li>  
+       </ul>
+    </nav>
+  </header>
+   <article>
+     <h1>CSS</h1>
+     <h2>patterns</h2>
+
+     <h3>CSS selectors </h3>
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="RwZpLXX" data-user="student167887" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/student167887/pen/RwZpLXX">
+  Untitled</a> by student167887 (<a href="https://codepen.io/student167887">@student167887</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+    
+    <p> Selectors  are the code that defines the elements, classnames, IDs, Attributes, or combinations that we are changing with CSS.</p>
+    
+    <h3>writing css</h3>
+    <ul>
+    <li>Inline</li>
+    <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="xxLqPxa" data-user="student167887" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/student167887/pen/xxLqPxa">
+  Untitled</a> by student167887 (<a href="https://codepen.io/student167887">@student167887</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+    
+    <li>Internal</li>
+    
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="poredJr" data-user="student167887" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/student167887/pen/poredJr">
+  Untitled</a> by student167887 (<a href="https://codepen.io/student167887">@student167887</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+    
+    
+    
+    
+     
