@@ -4,6 +4,12 @@ body{
 }
  
 h1{
+  font-size:8px;
+  font-style:cursive;
+  color:#fff;
+}
+
+h2{
   font-size:5px;
   font-style:cursive;
   color:#fff;
