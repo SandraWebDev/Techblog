@@ -4,19 +4,19 @@ body{
 }
  
 h1{
-  font-size:25px;
+  font-size:30px;
   font-style:cursive;
   color:#fff;
 }
 
 h2{
-  font-size:20px;
+  font-size:25px;
   font-style:cursive;
   color:#fff;
 }
 
 h3{
- font-size:15px;
+ font-size:20px;
   font-style:fantasy;
   color:#fff;
 }
@@ -24,4 +24,8 @@ h3{
 p{
   color:#fff;
    font-style:serif;
+}
+
+li{
+color:#fff;
 }
