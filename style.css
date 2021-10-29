@@ -41,3 +41,35 @@ color:#fff;
   margin:20px
 }
 
+.card__header{
+  background-color:#008880;
+  overflow:clip;
+  /*height:175px;*/
+  
+}
+
+.card__header img{
+  margin:0;
+  padding:0;
+  display:block;
+  width:100%;
+  height:auto;
+  opacity:.5;
+  transition: all .3s ease;
+  
+}
+
+.card:hover img{
+  opacity:1;
+  transform: scale(1.1);
+}
+
+.card:hover{
+  box-shadow: 1px 1px 5x 10px rgba(0,0,0,.5)
+  
+}
+.card__body{
+  padding:15px;
+  color:#83A0A0; 
+
+}
