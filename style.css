@@ -33,3 +33,11 @@ color:#fff;
 a{
 color:#fff;
 }
+
+.card{
+  background-color:white;
+  box-shadow:1px 1px 5px rgba(0, 0, 0, .5);
+  max-width:250px;
+  margin:20px
+}
+
